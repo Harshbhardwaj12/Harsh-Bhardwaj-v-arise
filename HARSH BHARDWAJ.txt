@@ -1,0 +1,20 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+class program
+{
+    static void main string[] arg)
+    int[] arr = arr.length - 1;
+    string strReverse = null;
+    while (length>= 0)
+    {
+        strReverse = strReverse + arr[]
+        length--;
+    }
+    console.Writeline() ;
+    console.Writeline("Reverse Array is "+" "=+strReverse );
+    console.Readline();
+}
+}
